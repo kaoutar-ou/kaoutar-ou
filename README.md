@@ -5,13 +5,15 @@
 <h4 align="center">...</h4>
 </div>
 
+## Technologies
 
+
+## My statistics
 
 <div align=center>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&title_color=6C5B7B&text_color=FFFFFF&show_icons=true&icon_color=6C5B7B&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
  </div>
- <br>
  
 <div align=center>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-ou&layout=compact&title_color=6C5B7B&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
