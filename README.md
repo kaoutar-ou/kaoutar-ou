@@ -12,8 +12,8 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" style="background-color:#61DAFB"
-                        src="https://user-images.githubusercontent.com/82285643/176928683-19b9fbc0-9e83-4e9b-b667-880f706867fb.svg" /></a>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://user-images.githubusercontent.com/82285643/176935194-148d94f2-7bc4-4926-a44d-247947b957c9.svg" /></a>
             </td>
         </tr>
         <tr>
