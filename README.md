@@ -12,7 +12,7 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" color="#61DAFB"
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" style="color:#61DAFB"
                         src="https://user-images.githubusercontent.com/82285643/176928683-19b9fbc0-9e83-4e9b-b667-880f706867fb.svg" /></a>
             </td>
         </tr>
