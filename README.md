@@ -5,6 +5,27 @@
 <h4 align="center">...</h4>
 </div>
 
+
+
+<div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&title_color=6C5B7B&text_color=FFFFFF&show_icons=true&icon_color=6C5B7B&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-ou&layout=compact&title_color=6C5B7B&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutar-ou&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6C5B7B&fire=6C5B7B&ring=6C5B7B" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/kaoutar-ou/kaoutar-ou/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+    
+<!--
+
 <p align="center">
 <a href="https://github.com/kaoutar-ou">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaoutar-ou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" bg_color=#808080/>
@@ -12,7 +33,6 @@
 </a>
 </p>
 
-<!--
 <h3>Statistical Data :</h3>
 <p>
     <a href="https://github.com/kaoutar-ou/" target="blank">
