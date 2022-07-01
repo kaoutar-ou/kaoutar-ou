@@ -5,7 +5,14 @@
 <h4 align="center">...</h4>
 </div>
 
+<p align="center">
+<a href="https://github.com/kaoutar-ou">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaoutar-ou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaoutar-ou&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
+<!--
 <h3>Statistical Data :</h3>
 <p>
     <a href="https://github.com/kaoutar-ou/" target="blank">
