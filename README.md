@@ -32,14 +32,9 @@
         <br>
 </div>
     
-<div align=center>
-        <img src="https://raw.githubusercontent.com/kaoutar-ou/kaoutar-ou/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-</div>
-    
 
     
-<!--
+
 
 <p align="center">
 <a href="https://github.com/kaoutar-ou">
@@ -47,7 +42,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaoutar-ou&layout=compact&langs_count=8&theme=algolia" bg_color=#808080/>
 </a>
 </p>
-
+<!--
 <h3>Statistical Data :</h3>
 <p>
     <a href="https://github.com/kaoutar-ou/" target="blank">
