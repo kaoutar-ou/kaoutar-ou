@@ -9,6 +9,30 @@
 
 ### 👉 Programming languages
 
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px" color="#61DAFB"
+                        src="https://user-images.githubusercontent.com/82285643/176928683-19b9fbc0-9e83-4e9b-b667-880f706867fb.svg" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="C++" title="C++" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### 👉 Frameworks & Libraries
 
 ### 👉 Databases
@@ -34,7 +58,7 @@
     
 
     
-
+<!--
 
 <p align="center">
 <a href="https://github.com/kaoutar-ou">
@@ -42,7 +66,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaoutar-ou&layout=compact&langs_count=8&theme=algolia" bg_color=#808080/>
 </a>
 </p>
-<!--
+
 <h3>Statistical Data :</h3>
 <p>
     <a href="https://github.com/kaoutar-ou/" target="blank">
