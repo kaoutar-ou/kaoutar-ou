@@ -9,7 +9,7 @@
 <h3>Statistical Data :</h3>
 <p>
     <a href="https://github.com/kaoutar-ou/" target="blank">
-        <img align="center"
+        <img width="49.5%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-ou&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="kaoutar-ou" 
     bg_color=#808080/>
@@ -17,7 +17,7 @@
 
 &nbsp;
     <a href="https://github.com/kaoutar-ou/" target="blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="kaoutar-ou" />
     </a>
 </p>
