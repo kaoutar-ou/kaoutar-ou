@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+<!--
 <div align="center">
 <h1 align="center">Hi 👋, I'm Kaoutar</h1>
 <h4 align="center">...</h4>
@@ -35,6 +35,22 @@
 
 ### 👉 Frameworks & Libraries
 
+<table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="react" title="react" height="28px"
+                        src="https://user-images.githubusercontent.com/82285643/176935194-148d94f2-7bc4-4926-a44d-247947b957c9.svg" /></a>
+            </td>
+            <td><a href="#"><img alt="flutter" title="flutter" height="28px"
+                        src="https://user-images.githubusercontent.com/82285643/176936620-54db7e69-14f5-4264-8b6f-8a88f8db628a.svg" /></a>
+            </td>
+            <td><a href="#"><img alt="django" title="django" height="28px"
+                        src="https://user-images.githubusercontent.com/82285643/176937401-8d746a3f-f135-416c-83e9-df026a2534af.svg" /></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### 👉 Databases
 
 ### 👉 Software & Tools
@@ -56,7 +72,7 @@
         <br>
 </div>
     
-
+-->
     
 <!--
 
