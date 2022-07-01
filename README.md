@@ -15,13 +15,7 @@
     bg_color=#808080/>
     </a>
 
-</p>
-
-<br>
-
-<!-- <p>&nbsp; -->
-<p>
-    
+&nbsp;
     <a href="https://github.com/kaoutar-ou/" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="kaoutar-ou" />
