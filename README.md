@@ -10,7 +10,7 @@
 ### 👉 Programming languages
 
 ### 👉 Frameworks & Libraries
-![react](https://user-images.githubusercontent.com/82285643/176928683-19b9fbc0-9e83-4e9b-b667-880f706867fb.svg)
+
 ### 👉 Databases
 
 ### 👉 Software & Tools
