@@ -155,11 +155,20 @@
 </div>
 
 <h2>My statistics</h2>
+
+<br/>
+<br/>
+<br/>
+
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=kaoutar-ou&title_color=FFFFFF&text_color=FFFFFF&show_icons=true&icon_color=000000&include_all_commits=true&count_private=true&theme=dark&bg_color=30,904e95,111111&hide_border=true"
         alt="GitHub Stats" height="200" />
     <br>
 </div>
+
+<br/>
+<br/>
+<br/>
 
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaoutar-ou&layout=compact&title_color=FFFFFF&text_color=FFFFFF&theme=dark&bg_color=30,904e95,111111&hide_border=true"
@@ -167,11 +176,11 @@
     <br>
 </div>
 
-<div align=center>
+<!-- <div align=center>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutar-ou&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFFFFF&fire=FFFFFF&ring=000000&background=552E58&sideLabels=000000&hide_border=true"
         alt="GitHub Streak Stats" height="200" />
     <br>
-</div>
+</div> -->
 
 
 
